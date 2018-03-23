@@ -2,8 +2,8 @@ MY_LOCAL_PATH := $(call my-dir)
 
 LOCAL_PATH := $(MY_LOCAL_PATH)
 
-#T=x86_64
-T=arm64-v8a
+T=x86_64
+#T=arm64-v8a
 
 
 
