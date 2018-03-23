@@ -1,0 +1,226 @@
+CURRENT STATS:
+System memory usage:
+  SOff/Mod : 1 samples:
+    Cached: 396MB min, 396MB avg, 396MB max
+    Free: 35MB min, 35MB avg, 35MB max
+    ZRam: 0.00 min, 0.00 avg, 0.00 max
+    Kernel: 277MB min, 277MB avg, 277MB max
+    Native: 107MB min, 107MB avg, 107MB max
+  SOn /Norm: 1 samples:
+    Cached: 394MB min, 394MB avg, 394MB max
+    Free: 35MB min, 35MB avg, 35MB max
+    ZRam: 0.00 min, 0.00 avg, 0.00 max
+    Kernel: 286MB min, 286MB avg, 286MB max
+    Native: 114MB min, 114MB avg, 114MB max
+       Mod : 1 samples:
+    Cached: 385MB min, 385MB avg, 385MB max
+    Free: 32MB min, 32MB avg, 32MB max
+    ZRam: 0.00 min, 0.00 avg, 0.00 max
+    Kernel: 279MB min, 279MB avg, 279MB max
+    Native: 106MB min, 106MB avg, 106MB max
+
+Per-Package Stats:
+  * com.example.sudhir.ratslamlib / u0a146 / v1:
+      * com.example.sudhir.ratslamlib / u0a146 / v1:
+               TOTAL: 8.3% (42MB-43MB-46MB/39MB-40MB-44MB over 5)
+                 Top: 8.3% (42MB-43MB-46MB/39MB-40MB-44MB over 5)
+
+Summary:
+  * com.example.sudhir.ratslamlib / u0a146 / v1:
+           TOTAL: 8.3% (42MB-43MB-46MB/39MB-40MB-44MB over 5)
+             Top: 8.3% (42MB-43MB-46MB/39MB-40MB-44MB over 5)
+
+Run time Stats:
+  SOff/Norm: +32m16s449ms
+       Mod : +17m6s654ms
+  SOn /Norm: +10m51s281ms (running)
+       Mod : +2m54s406ms
+      TOTAL: +1h3m8s790ms
+
+Memory usage:
+  Kernel : 281MB (24 samples)
+  Native : 109MB (24 samples)
+  Persist: 328MB (88 samples)
+  Top    : 103MB (88 samples)
+  ImpFg  : 219MB (208 samples)
+  ImpBg  : 13KB (15 samples)
+  Service: 235MB (469 samples)
+  Receivr: 87KB (340 samples)
+  Home   : 24MB (10 samples)
+  LastAct: 50MB (26 samples)
+  CchAct : 60MB (7 samples)
+  CchCAct: 50MB (29 samples)
+  CchEmty: 141MB (200 samples)
+  Cached : 392MB (24 samples)
+  Free   : 34MB (24 samples)
+  TOTAL  : 2.0GB
+  ServRst: 344KB (118 samples)
+
+          Start time: 2016-10-03 23:19:03
+  Total elapsed time: +1h3m8s824ms (partial) libart.so
+
+AGGREGATED OVER LAST 24 HOURS:
+System memory usage:
+  SOff/Norm: 16 samples:
+    Cached: 239MB min, 424MB avg, 606MB max
+    Free: 32MB min, 133MB avg, 328MB max
+    ZRam: 0.00 min, 0.00 avg, 0.00 max
+    Kernel: 267MB min, 281MB avg, 292MB max
+    Native: 105MB min, 109MB avg, 124MB max
+       Mod : 2 samples:
+    Cached: 259MB min, 328MB avg, 396MB max
+    Free: 35MB min, 178MB avg, 322MB max
+    ZRam: 0.00 min, 0.00 avg, 0.00 max
+    Kernel: 273MB min, 275MB avg, 277MB max
+    Native: 107MB min, 107MB avg, 107MB max
+       Crit: 1 samples:
+    Cached: 517MB min, 517MB avg, 517MB max
+    Free: 65MB min, 65MB avg, 65MB max
+    ZRam: 0.00 min, 0.00 avg, 0.00 max
+    Kernel: 268MB min, 268MB avg, 268MB max
+    Native: 107MB min, 107MB avg, 107MB max
+  SOn /Norm: 12 samples:
+    Cached: 300MB min, 456MB avg, 610MB max
+    Free: 32MB min, 97MB avg, 381MB max
+    ZRam: 0.00 min, 0.00 avg, 0.00 max
+    Kernel: 261MB min, 281MB avg, 299MB max
+    Native: 105MB min, 108MB avg, 114MB max
+       Mod : 4 samples:
+    Cached: 385MB min, 468MB avg, 543MB max
+    Free: 32MB min, 49MB avg, 96MB max
+    ZRam: 0.00 min, 0.00 avg, 0.00 max
+    Kernel: 273MB min, 280MB avg, 289MB max
+    Native: 105MB min, 106MB avg, 106MB max
+       Low : 1 samples:
+    Cached: 637MB min, 637MB avg, 637MB max
+    Free: 33MB min, 33MB avg, 33MB max
+    ZRam: 0.00 min, 0.00 avg, 0.00 max
+    Kernel: 291MB min, 291MB avg, 291MB max
+    Native: 108MB min, 108MB avg, 108MB max
+
+Per-Package Stats:
+  * com.example.sudhir.ratslamlib / u0a146 / v1:
+      * com.example.sudhir.ratslamlib / u0a146 / v1:
+               TOTAL: 8.6% (26MB-42MB-47MB/24MB-39MB-45MB over 31)
+                 Top: 8.6% (26MB-42MB-47MB/24MB-39MB-45MB over 31)
+          (Last Act): 1.2% (14MB-14MB-14MB/11MB-11MB-11MB over 1)
+            (Cached): 4.1% (5.6MB-14MB-22MB/4.6MB-12MB-19MB over 3)
+
+Summary:
+  * com.example.sudhir.ratslamlib / u0a146 / v1:
+           TOTAL: 8.6% (26MB-42MB-47MB/24MB-39MB-45MB over 31)
+             Top: 8.6% (26MB-42MB-47MB/24MB-39MB-45MB over 31)
+      (Last Act): 1.2% (14MB-14MB-14MB/11MB-11MB-11MB over 1)
+        (Cached): 4.1% (5.6MB-14MB-22MB/4.6MB-12MB-19MB over 3)
+
+Run time Stats:
+  SOff/Norm: +2h56m59s74ms
+       Mod : +32m34s196ms
+       Low : +702ms
+       Crit: +255ms
+  SOn /Norm: +2h35m12s708ms
+       Mod : +31m4s220ms
+       Low : +32s721ms
+       Crit: +43s100ms
+      TOTAL: +6h37m6s976ms
+
+Memory usage:
+  Kernel : 281MB (212 samples)
+  Native : 108MB (212 samples)
+  Persist: 344MB (3300 samples)
+  Top    : 100MB (2395 samples)
+  ImpFg  : 206MB (3370 samples)
+  ImpBg  : 10MB (2472 samples)
+  Service: 271MB (8971 samples)
+  Receivr: 214KB (6638 samples)
+  Home   : 25MB (102 samples)
+  LastAct: 12MB (1228 samples)
+  CchAct : 49MB (272 samples)
+  CchCAct: 25MB (599 samples)
+  CchEmty: 157MB (4397 samples)
+  Cached : 441MB (212 samples)
+  Free   : 110MB (212 samples)
+  TOTAL  : 2.1GB
+  ServRst: 1.1MB (4592 samples)
+
+          Start time: 2016-10-03 00:53:55
+  Total elapsed time: +23h29m5s702ms (partial) libart.so
+
+AGGREGATED OVER LAST 3 HOURS:
+System memory usage:
+  SOff/Norm: 6 samples:
+    Cached: 447MB min, 535MB avg, 606MB max
+    Free: 32MB min, 48MB avg, 91MB max
+    ZRam: 0.00 min, 0.00 avg, 0.00 max
+    Kernel: 267MB min, 278MB avg, 288MB max
+    Native: 107MB min, 112MB avg, 124MB max
+       Mod : 1 samples:
+    Cached: 396MB min, 396MB avg, 396MB max
+    Free: 35MB min, 35MB avg, 35MB max
+    ZRam: 0.00 min, 0.00 avg, 0.00 max
+    Kernel: 277MB min, 277MB avg, 277MB max
+    Native: 107MB min, 107MB avg, 107MB max
+  SOn /Norm: 7 samples:
+    Cached: 300MB min, 461MB avg, 610MB max
+    Free: 32MB min, 114MB avg, 381MB max
+    ZRam: 0.00 min, 0.00 avg, 0.00 max
+    Kernel: 261MB min, 275MB avg, 286MB max
+    Native: 106MB min, 110MB avg, 114MB max
+       Mod : 1 samples:
+    Cached: 385MB min, 385MB avg, 385MB max
+    Free: 32MB min, 32MB avg, 32MB max
+    ZRam: 0.00 min, 0.00 avg, 0.00 max
+    Kernel: 279MB min, 279MB avg, 279MB max
+    Native: 106MB min, 106MB avg, 106MB max
+       Low : 1 samples:
+    Cached: 637MB min, 637MB avg, 637MB max
+    Free: 33MB min, 33MB avg, 33MB max
+    ZRam: 0.00 min, 0.00 avg, 0.00 max
+    Kernel: 291MB min, 291MB avg, 291MB max
+    Native: 108MB min, 108MB avg, 108MB max
+
+Per-Package Stats:
+  * com.example.sudhir.ratslamlib / u0a146 / v1:
+      * com.example.sudhir.ratslamlib / u0a146 / v1:
+               TOTAL: 16% (26MB-42MB-47MB/24MB-39MB-45MB over 31)
+                 Top: 16% (26MB-42MB-47MB/24MB-39MB-45MB over 31)
+          (Last Act): 2.2% (14MB-14MB-14MB/11MB-11MB-11MB over 1)
+            (Cached): 7.6% (5.6MB-14MB-22MB/4.6MB-12MB-19MB over 3)
+
+Summary:
+  * com.example.sudhir.ratslamlib / u0a146 / v1:
+           TOTAL: 16% (26MB-42MB-47MB/24MB-39MB-45MB over 31)
+             Top: 16% (26MB-42MB-47MB/24MB-39MB-45MB over 31)
+      (Last Act): 2.2% (14MB-14MB-14MB/11MB-11MB-11MB over 1)
+        (Cached): 7.6% (5.6MB-14MB-22MB/4.6MB-12MB-19MB over 3)
+
+Run time Stats:
+  SOff/Norm: +1h17m54s991ms
+       Mod : +17m11s993ms
+  SOn /Norm: +1h42m57s254ms
+       Mod : +15m38s95ms
+       Low : +31s241ms
+       Crit: +42s286ms
+      TOTAL: +3h34m55s860ms
+
+Memory usage:
+  Kernel : 276MB (109 samples)
+  Native : 111MB (109 samples)
+  Persist: 350MB (792 samples)
+  Top    : 97MB (828 samples)
+  ImpFg  : 207MB (1285 samples)
+  ImpBg  : 11MB (536 samples)
+  Service: 249MB (3336 samples)
+  Receivr: 174KB (2818 samples)
+  Home   : 31MB (32 samples)
+  LastAct: 17MB (350 samples)
+  CchAct : 40MB (77 samples)
+  CchCAct: 17MB (188 samples)
+  CchEmty: 150MB (1724 samples)
+  Cached : 493MB (109 samples)
+  Free   : 84MB (109 samples)
+  TOTAL  : 2.1GB
+  ServRst: 812KB (1676 samples)
+
+          Start time: 2016-10-03 20:08:08
+  Total elapsed time: +4h14m7s703ms (partial) libart.so
